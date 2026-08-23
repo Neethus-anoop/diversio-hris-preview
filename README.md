@@ -249,16 +249,14 @@ AI assistance was treated as a development tool rather than a replacement for te
 
 ## Time Spent
 
-Implementation and testing: **[ENTER YOUR ACTUAL TIME]**
-
-Video recording: **[ENTER YOUR ACTUAL TIME]**
+  Approximately 1 hour 20 minutes (including the video recording)  
 
 ## Submission
 
-Source repository:
+**Source repository:**
 
-**[PASTE YOUR GITHUB REPOSITORY LINK]**
+(https://github.com/Neethus-anoop/diversio-hris-preview)
 
 Video walkthrough:
 
-**[PASTE YOUR VIDEO LINK]**
+[ (https://drive.google.com/file/d/1miP8AE3ZB86cCaf0qw1wgQFQd8Ez1f6d/view?usp=sharing)](https://drive.google.com/file/d/1miP8AE3ZB86cCaf0qw1wgQFQd8Ez1f6d/view?usp=sharing)
