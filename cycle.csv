@@ -1,0 +1,5 @@
+employee_id,employee_name,email,manager_id,manager_email,department
+EMP-001,Alice Smith,alice@example.com,EMP-002,,Engineering
+EMP-002,Bob Jones,bob@example.com,EMP-003,,Engineering
+EMP-003,Carol Lee,carol@example.com,EMP-001,,Engineering
+EMP-004,David Brown,david@example.com,EMP-001,,Finance
